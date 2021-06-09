@@ -7,3 +7,5 @@ const App = () => {
     <SignIn/>
   )
 }
+
+export default App
